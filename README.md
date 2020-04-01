@@ -1,0 +1,2 @@
+# dollaranalysis
+ In this repository I review and train theoretical model for forecasting the dollar based on oil prices, the euro on the previous day and the dollar for the previous 4 days. Naturally, this is only a theoretical model because it is not able to react to the political situation and the world situation. I am training a model for 5380 daily indicators of the factors listed above. I use the following main components: gradient descent and pandas library.
